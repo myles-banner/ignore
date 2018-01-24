@@ -1,0 +1,17 @@
+h1{
+	color:rgb(255,255,255);
+	border: 2px dashed white;
+}
+h4{
+	color:rgb(255,255,255);
+}
+li{
+	color: rgb(255,255,255);
+}
+div{
+	background: rgba(255,255,255,.7);
+}
+body{
+	background: url(http://belajoo.com/i/2017/01/light-photography-wallpaper-phone.jpg);
+	background-size: cover; 
+}
